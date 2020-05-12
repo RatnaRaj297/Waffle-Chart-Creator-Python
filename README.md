@@ -12,4 +12,4 @@ width: Defined width of waffle chart.
 
 colormap: Colormap class
 
-value_sign: In order to make our function more generalizable, we will add this parameter to address signs that could be associated with a value such as %, $, and so on. value_sign has a default value of empty string.
+value_sign: This parameter is used to address signs that could be associated with a value such as %, $, and so on. value_sign has a default value of empty string.
