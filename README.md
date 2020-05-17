@@ -1,6 +1,8 @@
 # Waffle-Chart-Creator-Python
 
-This is a function that takes in the following parameters and creates a Waffle-Chart.
+
+
+### This is a python function that takes in the following parameters and creates a Waffle-Chart.
 
 categories: Unique categories or classes in dataframe.
 
